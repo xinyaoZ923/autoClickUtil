@@ -1,0 +1,11 @@
+.vbox{
+    -fx-font-size: 12;
+    -fx-padding: 5;
+    -fx-spacing: 5;
+    /*-fx-background-image: url("bgm.jpeg")*/
+}
+.scroll-pane{
+    -fx-hbar-policy: as-needed;
+    -fx-vbar-policy: as-needed;
+    /*-fx-border-color: black;*/
+}

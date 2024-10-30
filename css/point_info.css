@@ -1,0 +1,56 @@
+#PointInfo {
+    -fx-font-size: 12;
+    -fx-padding: 5;
+    -fx-spacing: 5;
+    -fx-border-color:gainsboro ;
+}
+#isActive {
+    -fx-pref-width: 50;
+    -fx-pref-height: 100;
+}
+#rectangle {
+    -fx-pref-width: 24;
+    -fx-pref-height: 24;
+    /*-fx-fill: cadetblue;*/
+}
+.label {
+    -fx-pref-height: 24;
+    /*-fx-border-color: #000000;*/
+}
+.text-field{
+    -fx-pref-height: 24;
+    -fx-pref-width: 80;
+}
+.check-box {
+    -fx-pref-height: 24;
+    /*-fx-border-color: #000000;*/
+}
+.button {
+    -fx-pref-height: 24;
+    -fx-pref-width: 24;
+}
+.separator {
+    -fx-orientation: vertical;
+}
+.vbox2{
+    -fx-spacing: 5;
+    -fx-pref-width: 80;
+}
+
+.vbox3 {
+    -fx-spacing: 5;
+    -fx-pref-width: 30;
+}
+.vbox4 {
+    -fx-spacing: 5;
+    -fx-pref-width: 60;
+}
+.vbox5 {
+    -fx-spacing: 5;
+    -fx-pref-width: 80;
+}
+#comment{
+    -fx-pref-height: 24;
+    -fx-pref-width: 80;
+    -fx-text-fill: darkgray;
+}
